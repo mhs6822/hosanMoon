@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhs6822
+- 👋 Hi, I’m Hosan Moon from South Korea.
 - 👀 I’m interested in web design and IoT device
 - 🌱 I’m currently learning coding like java, python, javascript and html 
 - 💞️ I’m looking to collaborate on ...
